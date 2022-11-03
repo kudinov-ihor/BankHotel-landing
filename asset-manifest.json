@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BankHotel-landing/static/css/main.ab0a017a.css",
+    "main.js": "/BankHotel-landing/static/js/main.32f10828.js",
+    "index.html": "/BankHotel-landing/index.html",
+    "main.ab0a017a.css.map": "/BankHotel-landing/static/css/main.ab0a017a.css.map",
+    "main.32f10828.js.map": "/BankHotel-landing/static/js/main.32f10828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0a017a.css",
+    "static/js/main.32f10828.js"
+  ]
+}
